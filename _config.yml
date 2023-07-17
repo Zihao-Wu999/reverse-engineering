@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Reverse Engineering to Estimate Subsurface Utility Infrastructure Density for Financing Smart City Infrastructure"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "CUSP"
+description              : "Website for reverse engineering capstone project"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,10 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "NYU CUSP Capstone Team "
+  bio              : "CUSP Students:Yutong Lan, Zihao Liu, Zihao Wu Debra Laefer, Project Faculty Mentor, New York University Terri Matthews, Director, Town+Gown (@ NYC DDC)"
+  location         : "New York City"
   email            :
   links:
     - label: "Email"
